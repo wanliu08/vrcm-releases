@@ -1,6 +1,6 @@
 {
-    "version":  "1.0.4",
-    "versionCode":  34,
-    "url":  "https://cdn.jsdelivr.net/gh/wanliu08/vrcm-releases@main/apk/vrcm-1.0.4.apk",
-    "notes":  "- \u8bbe\u7f6e \u2192 \u66f4\u65b0\uff1a\u65b0\u589e\u300c\u4e0a\u6b21\u68c0\u67e5\u300d\u65f6\u95f4\n- OTA \u94fe\u8def\u9a8c\u8bc1\u7248\u672c\uff08\u5e94\u7528\u5185\u4e0b\u8f7d + \u7cfb\u7edf\u5b89\u88c5\u5668\uff09"
+    "version":  "1.0.5",
+    "versionCode":  35,
+    "url":  "https://cdn.jsdelivr.net/gh/wanliu08/vrcm-releases@main/apk/vrcm-1.0.5.apk",
+    "notes":  "- \u8bbe\u7f6e \u2192 \u66f4\u65b0\uff1a\u663e\u793a\u300c\u4e0a\u6b21\u68c0\u67e5\u300d\u65f6\u95f4\n- OTA \u9a8c\u8bc1\u7248\u672c"
 }

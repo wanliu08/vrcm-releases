@@ -1,6 +1,6 @@
 {
-    "version":  "0.11.2",
-    "versionCode":  23,
-    "url":  "https://cdn.jsdelivr.net/gh/wanliu08/vrcm-releases@main/apk/vrcm-0.11.2.apk",
-    "notes":  "- \u5e94\u7528\u5185\u66f4\u65b0\uff08\u542f\u52a8\u81ea\u52a8\u68c0\u67e5 + \u65b0\u7248\u672c\u5f39\u7a97\uff09\n- \u4e16\u754c\u6536\u85cf\u72ec\u7acb\u9875\n- \u7fa4\u7ec4\u8be6\u60c5\u4e0e\u6210\u5458\u5217\u8868\n- \u7edf\u4e00\u641c\u7d22\uff08\u597d\u53cb / \u7fa4\u7ec4 / \u4e16\u754c\uff09\n- \u516d\u4e2a\u6807\u7b7e\u9875 + \u5168\u7ad9\u4e0b\u62c9\u5237\u65b0"
+    "version":  "0.11.3",
+    "versionCode":  25,
+    "url":  "https://cdn.jsdelivr.net/gh/wanliu08/vrcm-releases@main/apk/vrcm-0.11.3.apk",
+    "notes":  "- \u66f4\u65b0\u6e90\u6539\u5230 jsDelivr\uff08\u56fd\u5185\u76f4\u8fde\uff09\n- \u53d1\u5e03\u6d41\u7a0b\u811a\u672c\u5316\uff08tools/release.ps1\uff09\n- \u66f4\u65b0\u4e0b\u8f7d\u5f3a\u5236 HTTP/1.1 + \u81ea\u52a8\u91cd\u8bd5"
 }

@@ -1,6 +1,6 @@
 {
-    "version":  "1.1.1",
-    "versionCode":  38,
-    "url":  "https://cdn.jsdelivr.net/gh/wanliu08/vrcm-releases@main/apk/vrcm-1.1.1.apk",
-    "notes":  "\u597d\u53cb\u4e0a\u7ebf\u63d0\u9192\uff1a\u540d\u5b57\u81ea\u52a8\u8865\u9f50\uff1b\u5f00\u5173\u72b6\u6001\u66f4\u53ef\u9760"
+    "version":  "1.1.2",
+    "versionCode":  39,
+    "url":  "https://cdn.jsdelivr.net/gh/wanliu08/vrcm-releases@main/apk/vrcm-1.1.2.apk",
+    "notes":  "\u4fee\u590d\uff1a\u52a8\u6001\u91cc\u51fa\u73b0\u300c\u79bb\u7ebf \u2192 \u79bb\u7ebf\u300d\u7684\u65e0\u610f\u4e49\u72b6\u6001\u8bb0\u5f55\uff08\u72b6\u6001\u6587\u6848\u6ca1\u5e26 location\uff09"
 }

@@ -1,6 +1,6 @@
 {
-    "version":  "0.11.6",
-    "versionCode":  28,
-    "url":  "https://cdn.jsdelivr.net/gh/wanliu08/vrcm-releases@main/apk/vrcm-0.11.6.apk",
-    "notes":  "- \u66f4\u65b0\u68c0\u67e5\u6539\u7528 GitHub API\uff08\u7ed5\u5f00 jsDelivr 12 \u5c0f\u65f6\u7f13\u5b58\uff09\n- \u66f4\u65b0\u4e0b\u8f7d\u6587\u4ef6\u540d\u5e26\u7248\u672c\u53f7\uff08\u4fee\u590d ColorOS \u5b89\u88c5\u5668\u7f13\u5b58\uff09\n- \u68c0\u67e5\u66f4\u65b0 25 \u79d2\u8d85\u65f6"
+    "version":  "0.11.7",
+    "versionCode":  29,
+    "url":  "https://cdn.jsdelivr.net/gh/wanliu08/vrcm-releases@main/apk/vrcm-0.11.7.apk",
+    "notes":  "- \u66f4\u65b0\u68c0\u67e5\u8d70 GitHub API\uff0cAPK \u8d70 jsDelivr\n- \u4e2d\u6587\u8bf4\u660e\u6b63\u5e38\u663e\u793a\n- \u5168\u6d41\u7a0b\u95ed\u73af\u9a8c\u8bc1"
 }

@@ -1,6 +1,6 @@
 {
-    "version":  "1.4.0.2",
-    "versionCode":  75,
-    "url":  "https://cdn.jsdelivr.net/gh/wanliu08/vrcm-releases@main/apk/vrcm-1.4.0.2.apk",
-    "notes":  "VRCpy 1.4.0.2\r\n\u00b7 \u8bbe\u7f6e\u9875\u9690\u85cf\u300c\u66f4\u65b0\u6e05\u5355\u5730\u5740\u300d\uff0c\u53ea\u4fdd\u7559\u300c\u68c0\u67e5\u66f4\u65b0\u300d\u6309\u94ae\r\n\u00b7 \u66f4\u65b0\u6e90\u968f\u5e94\u7528\u5185\u7f6e\uff0c\u65e0\u9700\u624b\u52a8\u914d\u7f6e\r\n\u00b7 \u7ef4\u62a4\u7248\u672c\uff1a\u7248\u672c\u53f7\u6309\u56db\u6bb5\u5f0f\u63a8\u8fdb\r\n"
+    "version":  "1.4.0.3",
+    "versionCode":  76,
+    "url":  "https://cdn.jsdelivr.net/gh/wanliu08/vrcm-releases@main/apk/vrcm-1.4.0.3.apk",
+    "notes":  "VRCpy 1.4.0.3\r\n\u00b7 \u8bbe\u7f6e\u9875\u300c\u5173\u4e8e\u300d\u4e0d\u518d\u663e\u793a\u63a5\u53e3\u5730\u5740\uff0c\u6539\u4e3a\u300cVRChat \u5b98\u65b9 API\u300d\r\n\u00b7 \u66f4\u65b0\u5361\u7247\u53ea\u4fdd\u7559\u68c0\u67e5\u66f4\u65b0\u6309\u94ae\r\n"
 }
